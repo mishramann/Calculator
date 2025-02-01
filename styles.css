@@ -45,3 +45,9 @@ form .display input {
 form input.equal {
   width: 145px;
 }
+.operator {
+  background: #000;
+}
+#golmar {
+  color: #f14b59;
+}
